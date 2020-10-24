@@ -1,6 +1,6 @@
 # Women's Football Results Visualization
 
-![2](https://user-images.githubusercontent.com/69224996/97093868-6b407a00-1604-11eb-83ec-8ab684de9589.jpg)
+![1](https://user-images.githubusercontent.com/69224996/97093908-afcc1580-1604-11eb-8717-81f770ae20e1.jpg)
 
 Football is a global game that connects almost every single person on the planet. No other sport in the history of humankind has beem able to penetrate into countries of varying cultures and continents. Although the TV viewership is much more higher for men's football, the women's football is slowly but steadily catching up to its male counterpart and is slowly starting to grab a lot of global attention.
 
