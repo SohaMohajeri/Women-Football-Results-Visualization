@@ -6,13 +6,14 @@ Football is a global game that connects almost every single person on the planet
 
 In this notebook, we will use an up-to-date dataset of over 4,000 women's international football results which includes:
 
-date: date of the match
-home_team: the name of the home team
-away_team: the name of the away team
-home_score: full-time home team score including extra time, not including penalty-shootouts
-away_score: full-time away team score including extra time, not including penalty-shootouts
-tournament: the name of the tournament
-city: the name of the city/town/administrative unit where the match was played
-country: the name of the country where the match was played
-neutral: TRUE/FALSE column indicating whether the match was played at a neutral venue
+- date: date of the match
+- home_team: the name of the home team
+- away_team: the name of the away team
+- home_score: full-time home team score including extra time, not including penalty-shootouts
+- away_score: full-time away team score including extra time, not including penalty-shootouts
+- tournament: the name of the tournament
+- city: the name of the city/town/administrative unit where the match was played
+- country: the name of the country where the match was played
+- neutral: TRUE/FALSE column indicating whether the match was played at a neutral venue
+
 Our objective is to analyze this dataset and gain some interesting insights.
