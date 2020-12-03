@@ -10,7 +10,6 @@
 
 <br />
 
-
 <div align="justify">
 
 Football is a global game that connects almost every single person on the planet. No other sport in the history of humankind has beem able to penetrate into countries of varying cultures and continents. Although the TV viewership is much more higher for men's football, the women's football is slowly but steadily catching up to its male counterpart and is slowly starting to grab a lot of global attention.
