@@ -3,7 +3,6 @@
 # Women's Football Results Visualization
 </div>
 
-
 <div align="center">
 <img src="https://user-images.githubusercontent.com/69224996/97093908-afcc1580-1604-11eb-8717-81f770ae20e1.jpg" >
 </div>
