@@ -27,7 +27,6 @@ In this notebook, we will use an up-to-date dataset of over 4,000 women's intern
 
 Our objective is to analyze this dataset and gain some interesting insights.
 
-
 </div>
 
 
